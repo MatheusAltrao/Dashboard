@@ -1,3 +1,26 @@
+<p align="center">
+  <img alt="dashboard" src="https://i.pinimg.com/originals/f2/32/55/f232552d7c9121bb8b859dd7f606a7fa.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- ReactJs
+- Tailwind
+- JavaScript
+- NextJs
+- Chart.js
+
+## 🚧 Projeto 
+
+Uma dashboard para visualizações de compras,lucros,prejuízos e todas outras estatíscas, completamente responsiva.
+
+
+---
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
